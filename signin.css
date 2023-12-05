@@ -102,16 +102,17 @@ button:hover {
 .navbar>div:last-child::after{
     margin-top: 7px;
 }
+
 .navbar .btn:last-child{
     margin: 0 10px;
 }
-
 .btn-danger {
     background-color:rgb(11, 11, 128);
     border: rgb(11, 11, 128);
     position: relative;
-    right: 600px;
+    right: 630px;
 }
+
 .name{
     position: relative;
     left: 600px;
